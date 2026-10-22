@@ -1,8 +1,8 @@
 {
-  "versionCode": 12,
-  "versionName": "3.0",
-  "apk": "apk/Vida-v3.0.apk",
-  "sha256": "075326d0ba96868948d6614a9cd8066fd477532b3308a6ba96ccd5d0332f7d3e",
-  "notas": "Dia em pontos, tempo por tarefa, clientes (follow-up e WhatsApp), plano de dívidas, widget, escolha de voz e HUD mais limpo.",
+  "versionCode": 13,
+  "versionName": "3.1",
+  "apk": "apk/Vida-v3.1.apk",
+  "sha256": "b08e5216aaced03e3c7ffc9ce9beddd32e664b61be810ffdfc70a82731158ae0",
+  "notas": "Lembretes com o app fechado (contas, clientes, seu plano, fechar o dia) e backup automático semanal.",
   "publicado": "2026-10-22"
 }
