@@ -1,8 +1,8 @@
 {
-  "versionCode": 6,
-  "versionName": "2.4",
-  "apk": "apk/Vida-v2.4.apk",
-  "sha256": "2d5eed7d35a501b27da2c63da2e14cb067b934f547c5d8514c4fcb61625b462b",
-  "notas": "Ícone novo no visual arena.",
+  "versionCode": 7,
+  "versionName": "2.5",
+  "apk": "apk/Vida-v2.5.apk",
+  "sha256": "dcac9e323d431a322d9fc7dc5d68158c53ab3bec953d8f77ba02f35abeb1d329",
+  "notas": "Arena Foco: visual mais calmo, comemorações discretas e o modo Só a missão.",
   "publicado": "2026-10-22"
 }
