@@ -1,8 +1,8 @@
 {
-  "versionCode": 10,
-  "versionName": "2.8",
-  "apk": "apk/Vida-v2.8.apk",
-  "sha256": "229fa4d13b6344211030b0be85b0da00e60a4f133549cd192b3ed3088fa14175",
-  "notas": "Nova aba Notícias: política do Brasil, mundo, JN e Em alta, atualizada a cada 15 min, com tradução automática do inglês.",
+  "versionCode": 11,
+  "versionName": "2.9",
+  "apk": "apk/Vida-v2.9.apk",
+  "sha256": "a614b4882bc33cebd969550694145d0f528412918d3952743cb001cf2067ca1c",
+  "notas": "Novo visual HUD (Mais → Visual): painel de status, briefing falado, comandos por voz, alertas e Fechar o dia.",
   "publicado": "2026-10-22"
 }
