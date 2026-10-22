@@ -1,8 +1,8 @@
 {
-  "versionCode": 9,
-  "versionName": "2.7",
-  "apk": "apk/Vida-v2.7.apk",
-  "sha256": "6b25380cc931ee619a09e98722ef8498ef3e6ed0da8a114aa5e2808d161ef275",
-  "notas": "Corrige a sincronização com os bancos (Pluggy mudou a busca de transações).",
+  "versionCode": 10,
+  "versionName": "2.8",
+  "apk": "apk/Vida-v2.8.apk",
+  "sha256": "229fa4d13b6344211030b0be85b0da00e60a4f133549cd192b3ed3088fa14175",
+  "notas": "Nova aba Notícias: política do Brasil, mundo, JN e Em alta, atualizada a cada 15 min, com tradução automática do inglês.",
   "publicado": "2026-10-22"
 }
