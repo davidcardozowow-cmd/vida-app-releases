@@ -1,8 +1,8 @@
 {
-  "versionCode": 5,
-  "versionName": "2.3",
-  "apk": "apk/Vida-v2.3.apk",
-  "sha256": "c24dddb56063d6cc79565e6d241275d1b764a8ba04c6bdfa3779aec2a16a0458",
-  "notas": "Visual arena: perfil com nível e elo, missões com XP e comemoração ao subir de nível. Dá para voltar ao clássico em Mais.",
+  "versionCode": 6,
+  "versionName": "2.4",
+  "apk": "apk/Vida-v2.4.apk",
+  "sha256": "2d5eed7d35a501b27da2c63da2e14cb067b934f547c5d8514c4fcb61625b462b",
+  "notas": "Ícone novo no visual arena.",
   "publicado": "2026-10-22"
 }
