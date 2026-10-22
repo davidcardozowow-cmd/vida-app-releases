@@ -1,8 +1,8 @@
 {
-  "versionCode": 8,
-  "versionName": "2.6",
-  "apk": "apk/Vida-v2.6.apk",
-  "sha256": "a29848baab5731af5852f5cae154bcf10dd482e2a705acf4f00643e89226308c",
-  "notas": "IA grátis no app (anotar do seu jeito e quebrar em passos), Perguntar ao Claude/ChatGPT e Compartilhar com o Vida.",
+  "versionCode": 9,
+  "versionName": "2.7",
+  "apk": "apk/Vida-v2.7.apk",
+  "sha256": "6b25380cc931ee619a09e98722ef8498ef3e6ed0da8a114aa5e2808d161ef275",
+  "notas": "Corrige a sincronização com os bancos (Pluggy mudou a busca de transações).",
   "publicado": "2026-10-22"
 }
