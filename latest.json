@@ -1,8 +1,8 @@
 {
-  "versionCode": 13,
-  "versionName": "3.1",
-  "apk": "apk/Vida-v3.1.apk",
-  "sha256": "b08e5216aaced03e3c7ffc9ce9beddd32e664b61be810ffdfc70a82731158ae0",
-  "notas": "Lembretes com o app fechado (contas, clientes, seu plano, fechar o dia) e backup automático semanal.",
+  "versionCode": 14,
+  "versionName": "3.2",
+  "apk": "apk/Vida-v3.2.apk",
+  "sha256": "8cd6948699b83c2114f76667bd0f85989f7717b4837b1055bce487476ed5504c",
+  "notas": "Início personalizável (escolha o que aparece e a ordem), menu do + mais limpo e proteção contra perda de dados.",
   "publicado": "2026-10-22"
 }
