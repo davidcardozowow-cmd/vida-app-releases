@@ -1,8 +1,8 @@
 {
-  "versionCode": 7,
-  "versionName": "2.5",
-  "apk": "apk/Vida-v2.5.apk",
-  "sha256": "dcac9e323d431a322d9fc7dc5d68158c53ab3bec953d8f77ba02f35abeb1d329",
-  "notas": "Arena Foco: visual mais calmo, comemorações discretas e o modo Só a missão.",
+  "versionCode": 8,
+  "versionName": "2.6",
+  "apk": "apk/Vida-v2.6.apk",
+  "sha256": "a29848baab5731af5852f5cae154bcf10dd482e2a705acf4f00643e89226308c",
+  "notas": "IA grátis no app (anotar do seu jeito e quebrar em passos), Perguntar ao Claude/ChatGPT e Compartilhar com o Vida.",
   "publicado": "2026-10-22"
 }
