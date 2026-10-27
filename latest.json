@@ -1,8 +1,8 @@
 {
-  "versionCode": 15,
-  "versionName": "3.3",
-  "apk": "apk/Vida-v3.3.apk",
-  "sha256": "610607fae85c8e0daec6d0b09c06fef9380dcfc6e41af494f81ca3d47fbdb7b1",
-  "notas": "Treino do cérebro: sessão guiada de estudo, flashcards com repetição espaçada, roteiro de 8 semanas, caderno de erros, calibração de notas e revisão de domingo.",
-  "publicado": "2026-10-26"
+  "versionCode": 16,
+  "versionName": "4.0",
+  "apk": "apk/Vida-v4.0.apk",
+  "sha256": "edd6c0595475c8ba775773345f7b84093e70a1b953ae4412d15703dbbfbfef18",
+  "notas": "Vida 4: visual novo, único e mais limpo (escuro ou claro), Hoje com um só destaque, Ajustes na engrenagem e módulos que você liga e desliga.",
+  "publicado": "2026-10-27"
 }
