@@ -1,8 +1,8 @@
 {
-  "versionCode": 16,
-  "versionName": "4.0",
-  "apk": "apk/Vida-v4.0.apk",
-  "sha256": "edd6c0595475c8ba775773345f7b84093e70a1b953ae4412d15703dbbfbfef18",
-  "notas": "Vida 4: visual novo, único e mais limpo (escuro ou claro), Hoje com um só destaque, Ajustes na engrenagem e módulos que você liga e desliga.",
-  "publicado": "2026-10-27"
+  "versionCode": 17,
+  "versionName": "4.1",
+  "apk": "apk/Vida-v4.1.apk",
+  "sha256": "8a931c15ecf989d687f36224e63919e4ab0e4a750e59441a6eb7a511461cce37",
+  "notas": "Acabamento: formulários mais curtos, deslizar para concluir, toque leve ao concluir, escolha da sua cor e frase no topo, Notícias, Clientes e Treino mais limpos.",
+  "publicado": "2026-10-30"
 }
