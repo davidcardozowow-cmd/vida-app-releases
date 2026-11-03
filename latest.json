@@ -1,8 +1,15 @@
 {
-  "versionCode": 17,
-  "versionName": "4.1",
-  "apk": "apk/Vida-v4.1.apk",
-  "sha256": "8a931c15ecf989d687f36224e63919e4ab0e4a750e59441a6eb7a511461cce37",
-  "notas": "Acabamento: formulários mais curtos, deslizar para concluir, toque leve ao concluir, escolha da sua cor e frase no topo, Notícias, Clientes e Treino mais limpos.",
-  "publicado": "2026-10-30"
+  "versionCode": 18,
+  "versionName": "4.2",
+  "apk": "apk/Vida-v4.2.apk",
+  "sha256": "1b2064f25ad45e85739f204ee6b33e41ad2d5e1a0dc7386ff227dbdf5d80b987",
+  "notas": "Vida no PC: sincronização entre celular e computador (criptografada, no seu GitHub privado). Ative em Ajustes → Sincronizar celular e PC.",
+  "publicado": "2026-11-03",
+  "pc": {
+    "versionCode": 18,
+    "versionName": "4.2",
+    "conteudo": "pc/pc-conteudo-18.json",
+    "sha256": "987155d807a325426391186c0d3824f2c04d172d9318172368435052be4977fc",
+    "casca": 1
+  }
 }
