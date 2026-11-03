@@ -1,15 +1,15 @@
 {
-  "versionCode": 18,
-  "versionName": "4.2",
-  "apk": "apk/Vida-v4.2.apk",
-  "sha256": "1b2064f25ad45e85739f204ee6b33e41ad2d5e1a0dc7386ff227dbdf5d80b987",
+  "versionCode": 19,
+  "versionName": "4.2.1",
+  "apk": "apk/Vida-v4.2.1.apk",
+  "sha256": "bf314cbe582121c49f1fc17a37a1b8a45232d176cff94a4521c57c627213abc0",
   "notas": "Vida no PC: sincronização entre celular e computador (criptografada, no seu GitHub privado). Ative em Ajustes → Sincronizar celular e PC.",
   "publicado": "2026-11-03",
   "pc": {
-    "versionCode": 18,
-    "versionName": "4.2",
-    "conteudo": "pc/pc-conteudo-18.json",
-    "sha256": "987155d807a325426391186c0d3824f2c04d172d9318172368435052be4977fc",
+    "versionCode": 19,
+    "versionName": "4.2.1",
+    "conteudo": "pc/pc-conteudo-19.json",
+    "sha256": "0c2fcbf3443cd9402ded8d81a9c9784709870ee060d00a2a0ec9f723df8eb2de",
     "casca": 1
   }
 }
