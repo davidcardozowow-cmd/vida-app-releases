@@ -10,6 +10,8 @@
     "versionName": "4.2.1",
     "conteudo": "pc/pc-conteudo-19.json",
     "sha256": "0c2fcbf3443cd9402ded8d81a9c9784709870ee060d00a2a0ec9f723df8eb2de",
-    "casca": 1
+    "casca": 1,
+    "app": "pc/vida-pc-app-19.zip",
+    "appSha256": "4399f26aad385fead63b2a95a26236d5274e43457e9c2d6c464b26a302800f77"
   }
 }
