@@ -1,17 +1,17 @@
 {
-  "versionCode": 19,
-  "versionName": "4.2.1",
-  "apk": "apk/Vida-v4.2.1.apk",
-  "sha256": "bf314cbe582121c49f1fc17a37a1b8a45232d176cff94a4521c57c627213abc0",
-  "notas": "Vida no PC: sincronização entre celular e computador (criptografada, no seu GitHub privado). Ative em Ajustes → Sincronizar celular e PC.",
+  "versionCode": 20,
+  "versionName": "4.2.2",
+  "apk": "apk/Vida-v4.2.2.apk",
+  "sha256": "8b0a9ca3ed9363dfcc0469da3a8782780b0cd395fe4ef2b328507e97bb28b8e0",
+  "notas": "Início mais visual: notícia com foto e mais 2 manchetes; Aprender com trilha de progresso e a ideia da próxima lição.",
   "publicado": "2026-11-03",
   "pc": {
-    "versionCode": 19,
-    "versionName": "4.2.1",
-    "conteudo": "pc/pc-conteudo-19.json",
-    "sha256": "0c2fcbf3443cd9402ded8d81a9c9784709870ee060d00a2a0ec9f723df8eb2de",
+    "versionCode": 20,
+    "versionName": "4.2.2",
+    "conteudo": "pc/pc-conteudo-20.json",
+    "sha256": "9146de2dfe979d07cac6a0dfdad76d55848acdc562b03f14b8ca488be90b6aaf",
     "casca": 1,
-    "app": "pc/vida-pc-app-19.zip",
-    "appSha256": "4399f26aad385fead63b2a95a26236d5274e43457e9c2d6c464b26a302800f77"
+    "app": "pc/vida-pc-app-20.zip",
+    "appSha256": "4c5122e01a46e875b21794bffd96f14ffee0714f7e4b585dcb48db6841fcd2cb"
   }
 }
