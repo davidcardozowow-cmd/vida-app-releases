@@ -1,17 +1,17 @@
 {
-  "versionCode": 20,
-  "versionName": "4.2.2",
-  "apk": "apk/Vida-v4.2.2.apk",
-  "sha256": "8b0a9ca3ed9363dfcc0469da3a8782780b0cd395fe4ef2b328507e97bb28b8e0",
-  "notas": "Início mais visual: notícia com foto e mais 2 manchetes; Aprender com trilha de progresso e a ideia da próxima lição.",
+  "versionCode": 21,
+  "versionName": "4.3",
+  "apk": "apk/Vida-v4.3.apk",
+  "sha256": "d55e55ab8bed455664dc5fe79e5611fb1c7770bf2cbb375479eba72bfc6ea536",
+  "notas": "Finanças: veja para onde foi o dinheiro do mês e saldo legível no tema claro. Nova revisão Minha semana (sábado a segunda): seus números da semana e a prioridade da próxima vira tarefa de segunda.",
   "publicado": "2026-11-03",
   "pc": {
-    "versionCode": 20,
-    "versionName": "4.2.2",
-    "conteudo": "pc/pc-conteudo-20.json",
-    "sha256": "9146de2dfe979d07cac6a0dfdad76d55848acdc562b03f14b8ca488be90b6aaf",
+    "versionCode": 21,
+    "versionName": "4.3",
+    "conteudo": "pc/pc-conteudo-21.json",
+    "sha256": "c1cfb5b787d33855d26d72f736973ab811ed184543b3c5b5d1afb775b9867013",
     "casca": 1,
-    "app": "pc/vida-pc-app-20.zip",
-    "appSha256": "4c5122e01a46e875b21794bffd96f14ffee0714f7e4b585dcb48db6841fcd2cb"
+    "app": "pc/vida-pc-app-21.zip",
+    "appSha256": "f0616aa3a20bb72d5096a1a3d084d64f8019e5ac980da90fed7a0bacdcb88deb"
   }
 }
